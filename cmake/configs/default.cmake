@@ -463,3 +463,4 @@ if(ANDROID)
     # TODO: Add more versions
   endif()
 endif()
+hunter_config(quick VERSION 0.1.0.0)
